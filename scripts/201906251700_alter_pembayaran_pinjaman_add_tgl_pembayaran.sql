@@ -1,0 +1,1 @@
+ALTER TABLE pembayaran_pinjaman ADD tgl_pembayaran date;

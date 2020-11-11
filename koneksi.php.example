@@ -1,0 +1,8 @@
+<?php
+$host   = 'localhost';
+$user   = 'root';
+$password = '';
+$database = 'ksp_xyz';
+
+$con = mysqli_connect($host, $user, $password);
+$db  = mysqli_select_db($con, $database) or die(mysqli_error($con));

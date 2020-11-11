@@ -1,0 +1,13 @@
+{
+    "name": "ismail/ksp",
+    "description": "Koperasi Simpan Pinjam XYZ",
+    "authors": [
+        {
+            "name": "Muhammad Ismail",
+            "email": "muhisan21@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.41"
+    }
+}
